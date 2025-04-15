@@ -1,6 +1,4 @@
 # .github
-Readme for the Sustain Project
-
 
 Welcome to the UKRI AI Centre for Doctoral Training in ** Sustainable Understandable agri-food Systems Transformed by Artificial INtelligence** (**SUSTAIN**).
 
