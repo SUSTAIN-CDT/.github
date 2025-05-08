@@ -8,8 +8,16 @@ Visit our website: [https://www.sustain-cdt.ai/](https://www.sustain-cdt.ai/)
 
 
 
-## Resources
+## Pinned Resources
 
+Getting Started with GIT
+https://github.com/SUSTAIN-CDT/GIT-for-SUSTAIN
+
+Getting Started with the HPC (Maxwell)
+https://github.com/SUSTAIN-CDT/SUSTAIN-CDT-HPC-Introduction
+
+Kelvin2 Documentation
+https://ni-hpc.github.io/nihpc-documentation/
 
 ## Hackathons
 
