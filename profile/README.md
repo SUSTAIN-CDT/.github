@@ -29,6 +29,7 @@ The Studetns were provided with a Hyperspectral Imaging (HSI) dataset, they were
 The teams were then expected to experiment and see what interresting outputs they could produce with this over the course of a couple of days.
 
 -The Hanckathon instructions (Including a link to the dataset)
+
 https://github.com/SUSTAIN-CDT/rice-hsi-hackathon-2025
 
 
