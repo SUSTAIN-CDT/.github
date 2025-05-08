@@ -26,6 +26,8 @@ https://ni-hpc.github.io/nihpc-documentation/
 
 ### Spring 2025 HSI Rice Hackathon
 
+https://github.com/SUSTAIN-CDT/rice-hsi-hackathon-2025
+
 
 #### Team A
 
