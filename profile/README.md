@@ -35,6 +35,7 @@ https://github.com/SUSTAIN-CDT/rice-hsi-hackathon-2025
 
 
 #### Team A
+https://github.com/SUSTAIN-CDT/Les-Mis-rice
 
 #### Team B
 https://github.com/SUSTAIN-CDT/TeamB-rice-hsi-hackathon-2025
