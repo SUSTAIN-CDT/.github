@@ -1,6 +1,7 @@
 # Welcome to Sustain
 
-### Visit our Git\Hib Resources site https://sustain-cdt.github.io/index.html
+### Visit our Git\Hib Resources site:
+### https://sustain-cdt.github.io/index.html
 
 
 
