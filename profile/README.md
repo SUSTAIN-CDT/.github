@@ -1,6 +1,6 @@
 # Welcome to Sustain
 
-## Visit our Git\Hib Resources site https://sustain-cdt.github.io/index.html
+### Visit our Git\Hib Resources site https://sustain-cdt.github.io/index.html
 
 Welcome to the UKRI AI Centre for Doctoral Training in ** Sustainable Understandable agri-food Systems Transformed by Artificial INtelligence** (**SUSTAIN**).
 
