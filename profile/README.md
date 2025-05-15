@@ -1,10 +1,12 @@
 # Welcome to Sustain
 
+## Visit our Git\Hib Resources site https://sustain-cdt.github.io/index.html
+
 Welcome to the UKRI AI Centre for Doctoral Training in ** Sustainable Understandable agri-food Systems Transformed by Artificial INtelligence** (**SUSTAIN**).
 
 **SUSTAIN** is a collaboration between the Universities of **Lincoln**, **Aberdeen**, **Queen’s Belfast** and **Strathclyde**, and focuses on the application of Artificial Intelligence (AI) to sustainable agri-food.
 
-Visit our website: [https://www.sustain-cdt.ai/](https://www.sustain-cdt.ai/)
+Visit our Primary site: [https://www.sustain-cdt.ai/](https://www.sustain-cdt.ai/)
 
 
 
