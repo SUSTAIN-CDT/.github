@@ -28,6 +28,10 @@ Kelvin2 Documentation
 
 https://ni-hpc.github.io/nihpc-documentation/
 
+Getting Started with Docker
+
+https://github.com/SUSTAIN-CDT/DockerTutorial/tree/main
+
 ## Hackathons
 
 ### Spring 2025 HSI Rice Hackathon
