@@ -34,16 +34,16 @@ https://github.com/SUSTAIN-CDT/DockerTutorial/tree/main
 
 ## Hackathons
 We host yearly hackathons, feel free to browse the previous actvities below. The submissions from each team are linked on the repo.
-Feel free to try them yuorself as the instructions and data are indlcude/ linked.
+Feel free to try them yourself as the instructions and data are included/ linked.
 
 If you are a Sustain CDT student, you are more than welcome to email your files/ a link to a repo to the admin team and we will add your submission to the list.
 
 
 ### Spring 2025 HSI Rice Hackathon
-The Students were provided with a Hyperspectral Imaging (HSI) dataset, they were laos provided with code to load and parse this data.
+The Students were provided with a Hyperspectral Imaging (HSI) dataset, they were also provided with code to load and parse this data.
 The teams were then expected to experiment and see what interresting outputs they could produce with this over the course of a couple of days.
 
--The Hanckathon instructions (Including a link to the dataset)
+-The Hackathon instructions (Including a link to the dataset)
 
 https://github.com/SUSTAIN-CDT/rice-hsi-hackathon-2025
 
@@ -55,8 +55,11 @@ https://github.com/SUSTAIN-CDT/TeamB-rice-hsi-hackathon-2025
 
 
 ### Spring 2026 Timeseries Web app
+-The Hackathon instructions (Including a link to the dataset)
+https://github.com/SUSTAIN-CDT/TimeseriesHackathon
+
 The Studetns were provided with ..
--The Hanckathon instructions (Including a link to the dataset)
+-The Hackathon instructions (Including a link to the dataset)
 
 
 
