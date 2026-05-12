@@ -44,22 +44,14 @@ The Students were provided with a Hyperspectral Imaging (HSI) dataset, they were
 The teams were then expected to experiment and see what interresting outputs they could produce with this over the course of a couple of days.
 
 -The Hackathon instructions (Including a link to the dataset)
-
 https://github.com/SUSTAIN-CDT/rice-hsi-hackathon-2025
 
-#### Team A
-https://github.com/SUSTAIN-CDT/Les-Mis-rice
-
-#### Team B
-https://github.com/SUSTAIN-CDT/TeamB-rice-hsi-hackathon-2025
-
-
 ### Spring 2026 Timeseries Web app
+The Students were provided with 
+
 -The Hackathon instructions (Including a link to the dataset)
 https://github.com/SUSTAIN-CDT/TimeseriesHackathon
 
-The Studetns were provided with ..
--The Hackathon instructions (Including a link to the dataset)
 
 
 
