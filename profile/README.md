@@ -36,7 +36,7 @@ https://github.com/SUSTAIN-CDT/DockerTutorial/tree/main
 We host yearly hackathons, feel free to browse the previous actvities below. The submissions from each team are linked on the repo.
 Feel free to try them yuorself as the instructions and data are indlcude/ linked.
 
-If you are a Sustain CDT student, you are more than welcome to email your files/ a link to a repo to the admin tema and we will add your submission to the list.
+If you are a Sustain CDT student, you are more than welcome to email your files/ a link to a repo to the admin team and we will add your submission to the list.
 
 
 ### Spring 2025 HSI Rice Hackathon
